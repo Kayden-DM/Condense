@@ -6,7 +6,7 @@ Condenser takes long blocks of text and converts them into short, readable bulle
 
 ---
 
-## Features
+## Features  
 
 - *One-click Condensing* — Paste text into the input box and click Condense to generate a concise bullet-point summary.
 - *History Sidebar* — Every generated summary is saved with a timestamp and displayed in a scrollable history panel.
