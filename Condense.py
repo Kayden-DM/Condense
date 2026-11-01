@@ -1,4 +1,3 @@
-import tkinter as tk
 import customtkinter as ctk
 import json, os, datetime, threading, time
 from openai import OpenAI
